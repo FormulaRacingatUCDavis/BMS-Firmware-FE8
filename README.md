@@ -1,2 +1,2 @@
-# BMS-Software-FE8
+# BMS-Firmware-FE8
 Battery Management System
